@@ -99,8 +99,4 @@ The WebView restricts navigation to the following domains only. Any external lin
 
 ---
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
-
 This project makes no claim over any content served by AnimeKai. Use responsibly and in accordance with the terms of service of [animekai.to](https://animekai.to).
