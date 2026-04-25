@@ -1,6 +1,6 @@
 # AnimeKai Android
 
-An unofficial Android wrapper for [AnimeKai](https://animekai.to), built with a native WebView shell. Provides a clean, fullscreen-capable mobile experience for the site with proper notch and system bar handling.
+An unofficial Android wrapper for [AnimeKai](https://anikai.to), built with a native WebView shell. Provides a clean, fullscreen-capable mobile experience for the site with proper notch and system bar handling.
 
 ---
 
@@ -10,7 +10,7 @@ This project is an **unofficial, community-built client** and is in no way affil
 
 This app exists solely to improve the mobile browsing experience for AnimeKai's existing website. It does not host, scrape, redistribute, or modify any content from the site. It is simply a WebView wrapper — equivalent to opening the site in a mobile browser — with quality-of-life improvements such as fullscreen video support and proper display cutout handling.
 
-Full credit and recognition goes to the team behind [animekai.to](https://animekai.to) for building and maintaining the platform. Without their work, this project would have no purpose. If you enjoy the content, please support the original site directly.
+Full credit and recognition goes to the team behind [AnimeKai](https://anikai.to) for building and maintaining the platform. Without their work, this project would have no purpose. If you enjoy the content, please support the original site directly.
 
 ---
 
@@ -99,4 +99,4 @@ The WebView restricts navigation to the following domains only. Any external lin
 
 ---
 
-This project makes no claim over any content served by AnimeKai. Use responsibly and in accordance with the terms of service of [animekai.to](https://animekai.to).
+This project makes no claim over any content served by AnimeKai. Use responsibly and in accordance with the terms of service of [AnimeKai](https://anikai.to).
