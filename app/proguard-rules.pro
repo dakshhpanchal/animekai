@@ -1,0 +1,3 @@
+-keep class androidx.webkit.** { *; }
+-keep class androidx.appcompat.** { *; }
+-dontwarn androidx.**
