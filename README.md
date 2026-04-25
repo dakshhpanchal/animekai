@@ -49,7 +49,7 @@ cd animekai
 The signed APK (using the debug signing config) will be output to:
 
 ```
-app/build/outputs/apk/release/app-release.apk
+app/build/outputs/apk/release/animekai-v1.0.apk
 ```
 
 ---

@@ -27,9 +27,11 @@ class MainActivity : AppCompatActivity() {
     private var customView: View? = null
     private var customViewCallback: WebChromeClient.CustomViewCallback? = null
 
-    private val homeUrl = "https://animekai.to/home"
+    private val homeUrl = "https://anikai.to/home"
 
     private val allowedHosts = listOf(
+        "animekai.to",
+        "www.animekai.to",
         "anikai.to",
         "www.anikai.to",
         "animekai.fi",
